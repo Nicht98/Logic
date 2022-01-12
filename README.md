@@ -1,8 +1,7 @@
 # Logic
 A LITTLE MATHEMATICAL ALGORITHM 
 
-
-    Problem:
+# Problem:
 Implement a function that can solve the following problem:
 Given a number A, find the smallest number which has only 1s and 0s as its digits which are divisible by the number A.
 For example:
