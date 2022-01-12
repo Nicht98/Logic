@@ -11,3 +11,4 @@ If the given number A is 3, the answer would be 111.
 -	 The work can be in any programming language you choose.
 -	When you send your solution, include a description and pseudocode of how you approached the problem and a summary of how the program finds an answer in your own words.
 
+#Waiting for your own way for solving that problem
