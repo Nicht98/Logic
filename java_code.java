@@ -5,12 +5,12 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        division(7); //This method is a test example to show how the function works
+        division(7); 
 
 
     }
 
-    public static void division(int n){ //this method generate all numbers multiple of a particular one and get the first one who is constitute by 1s or/and 0s
+    public static void division(int n){ 
         boolean x=false;
         int j=2;
         do {
@@ -26,7 +26,7 @@ public class Main {
         }while (x==false);
     }
 
-    public static String check(int a){ //that function check if a string is constitute by 0s or/and 1s
+    public static String check(int a){ 
         String status ="";
         String s =Integer.toString(a) ;
         for (int z = 0; z < s.length(); z++) {
