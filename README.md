@@ -1,5 +1,5 @@
 # Logic
-A LITTLE MATHEMATICAL ALGORITHM 
+A LITTLE MATHEMATIQUE ALGORITHM 
 
 # Problem:
 Implement a function that can solve the following problem:
